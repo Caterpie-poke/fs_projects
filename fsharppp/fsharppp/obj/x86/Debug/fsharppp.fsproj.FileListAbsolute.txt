@@ -1,0 +1,10 @@
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/fsharppp.exe
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/fsharppp.pdb
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/FSharp.Core.dll
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/System.ValueTuple.dll
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/System.ValueTuple.xml
+/Users/origami/Projects/fsharppp/fsharppp/bin/Debug/FSharp.Core.xml
+/Users/origami/Projects/fsharppp/fsharppp/obj/x86/Debug/fsharppp.fsprojResolveAssemblyReference.cache
+/Users/origami/Projects/fsharppp/fsharppp/obj/x86/Debug/fsharppp.fsproj.CoreCompileInputs.cache
+/Users/origami/Projects/fsharppp/fsharppp/obj/x86/Debug/fsharppp.exe
+/Users/origami/Projects/fsharppp/fsharppp/obj/x86/Debug/fsharppp.pdb

@@ -1,0 +1,10 @@
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/fs_tutorial.exe
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/fs_tutorial.pdb
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/FSharp.Core.dll
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/System.ValueTuple.dll
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/System.ValueTuple.xml
+/Users/origami/Projects/fs_tutorial/fs_tutorial/bin/Debug/FSharp.Core.xml
+/Users/origami/Projects/fs_tutorial/fs_tutorial/obj/x86/Debug/fs_tutorial.fsprojResolveAssemblyReference.cache
+/Users/origami/Projects/fs_tutorial/fs_tutorial/obj/x86/Debug/fs_tutorial.fsproj.CoreCompileInputs.cache
+/Users/origami/Projects/fs_tutorial/fs_tutorial/obj/x86/Debug/fs_tutorial.exe
+/Users/origami/Projects/fs_tutorial/fs_tutorial/obj/x86/Debug/fs_tutorial.pdb

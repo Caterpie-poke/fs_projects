@@ -1,0 +1,8 @@
+/Users/origami/Projects/MathParser/MathParser/bin/Debug/netcoreapp2.0/MathParser.deps.json
+/Users/origami/Projects/MathParser/MathParser/bin/Debug/netcoreapp2.0/MathParser.runtimeconfig.json
+/Users/origami/Projects/MathParser/MathParser/bin/Debug/netcoreapp2.0/MathParser.runtimeconfig.dev.json
+/Users/origami/Projects/MathParser/MathParser/bin/Debug/netcoreapp2.0/MathParser.dll
+/Users/origami/Projects/MathParser/MathParser/bin/Debug/netcoreapp2.0/MathParser.pdb
+/Users/origami/Projects/MathParser/MathParser/obj/Debug/netcoreapp2.0/MathParser.fsprojResolveAssemblyReference.cache
+/Users/origami/Projects/MathParser/MathParser/obj/Debug/netcoreapp2.0/MathParser.dll
+/Users/origami/Projects/MathParser/MathParser/obj/Debug/netcoreapp2.0/MathParser.pdb
